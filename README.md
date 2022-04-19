@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @madddox  你好，我叫madddox
+- 👀 I’m interested in game playing  我喜欢玩游戏，偶尔也会拆解它们
+- 🌱 I’m currently learning C++/C#   目前还在学（入）习（门）c++和c#
+- 📫 How to reach me madddox@163.com  想要联系我可以到下面这个邮箱地址：madddox@163.com
